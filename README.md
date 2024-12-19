@@ -32,4 +32,4 @@ Bu proje, Kütüphane Yönetim Sistemi geliştirmek için Java programlama dili 
 - *Swing* kütüphanesi kullanılarak geliştirilmiştir.
 - Giriş ekranı, kayıt ekranı ve kitap yönetimi ekranları gibi farklı modüller içerir.
 
-  
+### Proje Arkadaşım: ZEYNEP UĞUZ, Github Linki: https://github.com/zeynepuguz/KutuphaneSistemi
